@@ -38,7 +38,7 @@ src/
 
 - GCC compiler
 - Make
-- MNIST dataset files (train-images-idx3-ubyte and train-labels-idx1-ubyte) I put the csv version in data the originals were giving me headaches
+- MNIST dataset files (train-images-idx3-ubyte and train-labels-idx1-ubyte) I put the csv version in data the originals were giving me headaches (I was only able to put test so heres the link to both test and train - https://www.kaggle.com/datasets/oddrationale/mnist-in-csv)
 
 ## Building the Project
 

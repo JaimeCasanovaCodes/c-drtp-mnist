@@ -48,4 +48,4 @@ Thumbs.db
 *.d
 
 #CSV files
-echo "data/mnist_train.csv" >> .gitignore
+data/mnist_train.csv
