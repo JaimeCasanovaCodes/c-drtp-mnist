@@ -46,3 +46,6 @@ Thumbs.db
 
 # Makefile generated files
 *.d
+
+#CSV files
+echo "data/mnist_train.csv" >> .gitignore
