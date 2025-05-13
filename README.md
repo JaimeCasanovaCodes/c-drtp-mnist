@@ -1,6 +1,6 @@
 ### MNIST Neural Network in C
 
-This project implements a neural network using Direct Random Target Projection (DRTP) in C for recognizing handwritten digits from the MNIST dataset. This is one of the first implementations of DRTP in C (or first from what I have seen online), offering potential performance advantages over higher-level language implementations. I'm doing this for educational purposes I do not have any type of research background. I am a undergraduate college student.
+This project implements a neural network using Direct Random Target Projection (DRTP) in C for recognizing handwritten digits from the MNIST dataset. This is one of the first implementations of DRTP in C (or first from what I have seen online), offering potential performance advantages over higher-level language implementations. I'm doing this for educational purposes I do not have any type of research background. I am a undergraduate college student. I will be writing a paper and linking it here in the future explaining and showing how it was better than the original DRTP implemented in python.
 
 ## Direct Random Target Projection
 
